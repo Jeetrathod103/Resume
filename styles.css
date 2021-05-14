@@ -104,14 +104,14 @@ hr {
 
 .top-cloud {
   position: absolute;
-  right: 220px;
+  right: 250px;
   top: 50px;
 }
 
 .bottom-cloud {
   position: absolute;
   left: 200px;
-  bottom: 130px;
+  bottom: 200px;
 }
 
 .btn {
